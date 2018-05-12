@@ -1,0 +1,36 @@
+_repo: In-A-New-World--or-Among-The-Gold-Fields-Of-Australia_26111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Alger, Horatio
+    - Jr., Horatio Alger
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2008-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australia -- History -- 19th century -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'Gold mines and mining -- Fiction'
+title: In A New World; or, Among The Gold Fields Of Australia
+url: http://www.gutenberg.org/ebooks/26111
